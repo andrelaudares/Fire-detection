@@ -1,7 +1,7 @@
 NOME:                  RA:
-ANDRÉ LAUDARES         22001646
-MATHEUS MARAFOM        22004817
-RAUL MIGLIARI          22005575
+ANDRÉ LAUDARES         22001646 ||
+MATHEUS MARAFOM        22004817 ||
+RAUL MIGLIARI          22005575 ||
 
 
 # Simulação de Sistema de Detecção de Incêndios
